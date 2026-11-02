@@ -11,10 +11,16 @@ industrial processes, inspection stations, and field equipment.
 
 ## Install
 
-Using the [Skills CLI](https://github.com/vercel-labs/skills):
+Using the [Skills CLI](https://github.com/vercel-labs/skills) with Node.js 22.20+:
 
 ```sh
 npx skills add TthBnc/hmi-skills
+```
+
+With a current Bun runtime, the equivalent command is:
+
+```sh
+bunx --bun skills add TthBnc/hmi-skills
 ```
 
 Choose individual skills and supported agents interactively, or select explicitly:
