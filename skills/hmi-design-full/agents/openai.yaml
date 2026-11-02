@@ -1,0 +1,4 @@
+interface:
+  display_name: "HMI Design — Full"
+  short_description: "Design and review industrial operator interfaces"
+  default_prompt: "Review this operator interface using $hmi-design-full, separating source findings from checks that require the actual machine."

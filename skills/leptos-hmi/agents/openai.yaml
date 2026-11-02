@@ -1,0 +1,4 @@
+interface:
+  display_name: "Leptos HMI"
+  short_description: "Implement operator interfaces in Leptos and Tauri"
+  default_prompt: "Use $leptos-hmi with an HMI design skill to implement this operator screen using the existing project components."

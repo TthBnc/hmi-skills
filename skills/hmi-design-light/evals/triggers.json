@@ -1,0 +1,21 @@
+{
+  "description": "Manual activation evaluation cases; false may route to another skill.",
+  "queries": [
+    {
+      "query": "Simplify navigation and wording on this machine operator screen.",
+      "should_trigger": true
+    },
+    {
+      "query": "Review the visual hierarchy of our packing-station screen.",
+      "should_trigger": true
+    },
+    {
+      "query": "Design emergency-stop behavior for a wireless winch pendant.",
+      "should_trigger": false
+    },
+    {
+      "query": "Create a marketing landing page.",
+      "should_trigger": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Manual activation evaluation cases; false may route to another skill.",
+  "queries": [
+    {
+      "query": "Implement a Leptos operator panel with pending and failed command states.",
+      "should_trigger": true
+    },
+    {
+      "query": "Review stale sensor rendering in this Leptos Tauri HMI.",
+      "should_trigger": true
+    },
+    {
+      "query": "Write a Rust serial-protocol parser.",
+      "should_trigger": false
+    },
+    {
+      "query": "Design an HMI in Qt without Leptos.",
+      "should_trigger": false
+    }
+  ]
+}
