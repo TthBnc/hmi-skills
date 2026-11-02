@@ -2,9 +2,6 @@
 name: hmi-design-full
 description: Design, specify, and review operator HMIs for machines and industrial processes. Use for safety boundaries, machine states, command feedback, data quality, alarms, glove use, legibility, or operator testing. Framework independent; excludes consumer apps and ordinary business dashboards.
 license: MIT
-metadata:
-  author: TthBnc
-  version: "1.0.0"
 ---
 
 # HMI Design (full)
@@ -27,7 +24,8 @@ secondary sources. `(verify)` unconfirmed: never present it as a requirement;
 say it is a starting value and recommend testing on the real device.
 For normative or safety-critical decisions, check the applicable current primary
 source and the machine risk assessment. Domain-specific guidance is not a
-universal requirement. See [source provenance](references/source-provenance.md).
+universal requirement. External standards are not redistributed or relicensed
+by this skill; source annotations do not establish machine compliance.
 
 ## Non-negotiables
 

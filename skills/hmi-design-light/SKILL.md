@@ -2,9 +2,6 @@
 name: hmi-design-light
 description: Apply a compact HMI usability checklist to machine and station screens. Use for routine layout, operator wording, navigation, and visual hierarchy. Use hmi-design-full for safety, alarms, command/data-quality behavior, quantitative standards, or detailed reviews.
 license: MIT
-metadata:
-  author: TthBnc
-  version: "1.0.0"
 ---
 
 # HMI Design (light)

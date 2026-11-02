@@ -1,4 +1,0 @@
-interface:
-  display_name: "HMI Design — Light"
-  short_description: "Quick operator-interface layout and usability guidance"
-  default_prompt: "Use $hmi-design-light to improve the layout and wording of this operator screen."

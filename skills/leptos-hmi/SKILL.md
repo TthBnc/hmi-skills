@@ -2,9 +2,6 @@
 name: leptos-hmi
 description: Build or review operator HMIs in Leptos 0.7/0.8 with client-side rendering, including Tauri or kiosk webviews. Use for reactive components, live data, command state, design tokens, and touch interaction. Pair with an HMI design skill; excludes unrelated Rust backend work.
 license: MIT
-metadata:
-  author: TthBnc
-  version: "1.0.0"
 ---
 
 # Leptos HMI
